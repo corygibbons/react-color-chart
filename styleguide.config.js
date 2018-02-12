@@ -8,6 +8,7 @@ module.exports = {
   },
   showSidebar: false,
   skipComponentsWithoutExample: true,
+  styleguideDir: 'public',
   title: 'React Color Chart',
   webpackConfig: {
     module: {
